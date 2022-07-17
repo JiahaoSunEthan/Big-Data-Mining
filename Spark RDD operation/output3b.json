@@ -1,0 +1,5 @@
+{
+    "m1": 0.00018710000000510263,
+    "m2": 19.6787621,
+    "reason": "When dealing with small data, just like handling the subset of the data in my local environment,       python is faster than spark. But when it comes to big data,spark has better efficiency"
+}
